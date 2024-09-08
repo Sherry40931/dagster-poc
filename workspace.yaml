@@ -1,0 +1,7 @@
+load_from:
+  - python_module:
+      module_name: core.definitions
+      executable_path: core/.venv/bin/python
+  - python_module:
+      module_name: plugin1.definitions
+      executable_path: plugin1/.venv/bin/python
